@@ -16,5 +16,5 @@ Key Features:
 
 6. **Study Tasks:** The project includes various study tasks and challenges, encouraging learners to explore different aspects of torrent client development. Tasks may involve optimizing download/upload strategies, implementing advanced features, and addressing specific Qt-related considerations.
 
-7. **Documentation:** Will be added soon
+7. **Documentation:** Will be added soon(nevermind)
 
